@@ -1,4 +1,4 @@
-module Can_Dashboard
+module grafana_project
 
 go 1.21
 
@@ -14,3 +14,4 @@ require (
 	golang.org/x/sys v0.11.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 )
+//Testing
